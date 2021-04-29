@@ -5,8 +5,8 @@
 - Ethan Reiter
 
 ## Part 1:
-NOTE: The slider does not work on chrome. I used firefox. Ethan's code is designed for chrome. 
-LINK TO YOUR PUBLISHED SITE
+- NOTE: The slider does not work on chrome. I used firefox. Ethan's code is designed for chrome. 
+https://lvlahaki.github.io/Lab5/
 
 ## Part 2:
 
