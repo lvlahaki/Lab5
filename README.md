@@ -6,8 +6,7 @@
 
 ## Part 1:
 - NOTE: The slider does not work on chrome. I used firefox. Ethan's code is designed for chrome. 
-https://lvlahaki.github.io/Lab5/
+- https://lvlahaki.github.io/Lab5/
 
 ## Part 2:
-
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/lvlahaki/github-actions-for-ci/issues/7
